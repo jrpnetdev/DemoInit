@@ -16,6 +16,7 @@ namespace WebApplication3
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            //this is some config change
         }
 
         public IConfiguration Configuration { get; }

@@ -39,3 +39,5 @@ Just type `createresources.sh [pathfile-to-arm-template] resourcegroup -c locati
 
 
 Some change update1
+
+Another update form Update 1
