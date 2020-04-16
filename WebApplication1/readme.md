@@ -38,3 +38,4 @@ Just type `createresources.sh [pathfile-to-arm-template] resourcegroup -c locati
 3. Finally will deploy `path-to-arm-template.json` and `path-to-arm-template.parameters.json` files in the `resourcegroup`
 
 
+Some change update1
